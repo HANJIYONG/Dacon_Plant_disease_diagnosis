@@ -30,25 +30,26 @@ os : Windows 10 Pro
 ```
 root
 │───Dacon_LG.ipynb
+│───csv_minmax.pickle
 │───utils.py
 └───data
 │   │───train
-│   │   |───10027
-│   │   │   |───10027.csv
-│   │   │   |───10027.jpg
+│   │   │───10027
+│   │   │   │───10027.csv
+│   │   │   │───10027.jpg
 │   │   │   └───10027.json
-│   │   |───10027_focus
-│   │   │   |───10027_focus.csv
-│   │   │   |───10027_focus.jpg
+│   │   │───10027_focus
+│   │   │   │───10027_focus.csv
+│   │   │   │───10027_focus.jpg
 │   │   │   └───10027_focus.json
 │   │   │   ...
 │   │
 │   └───test
-│   │   |───10000
-│   │   │   |───10000.csv
+│   │   │───10000
+│   │   │   │───10000.csv
 │   │   │   └───10000.jpg
-│   │   |───10001
-│   │   │   |───10001.csv
+│   │   │───10001
+│   │   │   │───10001.csv
 │   │   │   └───10001.jpg
 │       │   ...
 │   
@@ -62,5 +63,4 @@ root
 - Dacon_LG.ipynb 파일의 Model Training까지 수행
 
 ## Evaluation
-
 - Dacon_LG.ipynb 파일에서 Model Training을 제외한 나머지 코드 수행
