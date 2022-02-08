@@ -32,6 +32,7 @@ root
 │───Dacon_LG.ipynb
 │───csv_minmax.pickle
 │───utils.py
+│───model384.pt
 └───data
 │   │───train
 │   │   │───10027
@@ -59,8 +60,8 @@ root
 
 ## Training
 
-- 위 directory tree구조로 데이터 파일과 코드 파일들이 존재해야한다
-- Dacon_LG.ipynb 파일이 존재하는 경로에 "data" 폴더와 utils.py파일, csv_minmax.pickle 파일을 위치한다.
+- 위 directory tree구조로 파일들이 존재해야한다
+- Dacon_LG.ipynb 파일이 존재하는 경로에 "data" 폴더와 model384.pt, utils.py, csv_minmax.pickle 파일을 위치한다.
 - Dacon_LG.ipynb 파일의 Model Training까지 수행
 
 ## Evaluation
