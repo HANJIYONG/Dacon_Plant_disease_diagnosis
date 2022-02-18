@@ -5,6 +5,7 @@
 - 주관 : 데이콘
 - 주제 : "작물 환경 데이터"와 "작물 병해 이미지"를 이용해 "작물의 종류", "병해의 종류", "병해의 진행 정도"를 진단하는 AI 모델 개발
 - https://dacon.io/competitions/official/235870/overview/description
+- [\[Here our solution\]](./dacon_LG_solution.pdf)<br>
 
 ## Development environment. 
 os : Windows 10 Pro
